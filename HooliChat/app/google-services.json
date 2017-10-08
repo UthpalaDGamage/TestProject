@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "831425048313",
+    "firebase_url": "https://hoolichat-6cf97.firebaseio.com",
+    "project_id": "hoolichat-6cf97",
+    "storage_bucket": "hoolichat-6cf97.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:831425048313:android:a10f4e2d1f492794",
+        "android_client_info": {
+          "package_name": "com.udg.hoolichat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "831425048313-uqkimtbcukufce6afncogjflla0rmvgb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.udg.hoolichat",
+            "certificate_hash": "cda0af58cdc452869836684b3a1b6b1e14ae72a4"
+          }
+        },
+        {
+          "client_id": "831425048313-tcjov587h3tai6ojs71ethn0aqno3fbv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCmvZpyzlLnfzq2-Nv93693y32ahldc8M"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "831425048313-tcjov587h3tai6ojs71ethn0aqno3fbv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
